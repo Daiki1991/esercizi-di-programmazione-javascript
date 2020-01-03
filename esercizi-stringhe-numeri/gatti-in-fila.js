@@ -17,4 +17,4 @@
 
   http://www.imparareaprogrammare.it
 */
-var Cats = 44;
+
